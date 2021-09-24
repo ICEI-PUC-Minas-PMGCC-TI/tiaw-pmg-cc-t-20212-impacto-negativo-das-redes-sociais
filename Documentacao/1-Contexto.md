@@ -1,4 +1,8 @@
 # Introdução
+Hoje no Brasil, com o artifício das redes sociais a comunicação e o acesso à informação tiveram um grande incremento, e dado a versatilidade de tais plataformas seu uso se propagou para a palma de nossas mãos. Porém, diante de tais maravilhas da modernização foram identificados impactos negativos por tal tecnologia emergente, pois cada vez mais os usuários estão imersos nesse pequeno universo de bolso. 
+	Mediante isso, nos dias atuais, é inegável a sua influência e todos os seus padrões estabelecidos após sua crescente, contudo, surgiram debates referente ao uso indiscriminado dos recursos Web. Sendo pautado dessa vez o uso das redes, essa ferramenta tem várias atribuições, dentre elas lazer, informação, estudo e trabalho.
+	Nesse sentido, urge entendermos os impactos positivos e negativos de tais plataformas na vida de seus usuários, uma vez que, hoje se faz inegável seu uso crescente no cotidiano dos brasileiros. Sendo necessário mapear e entender a extensão de sua influência sobre o usuário e também se de alguma forma o aumento do índice de transtornos mentais entre jovens e jovens-adultos está atrelado ao seu uso. 
+	Acredita-se, portanto, ser de extrema utilidade que existam portais e aplicações que possam permitir ao usuário entender melhor todo o contexto no qual está presente, enquanto usuário de tais plataformas e havendo uma correlação entre possíveis transtornos mentais e o uso das redes sociais, lhe conferir ferramentas para lidar com isso de forma assertiva.
 
 ## Problema
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
