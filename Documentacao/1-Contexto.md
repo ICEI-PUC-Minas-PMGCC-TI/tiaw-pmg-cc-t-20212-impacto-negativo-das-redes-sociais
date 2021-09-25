@@ -12,9 +12,13 @@ Hoje no Brasil, com o artifício das redes sociais a comunicação e o acesso à
 
 O objetivo principal do projeto é a criação de um site que possa reunir informações acerca de problemas relacionados a saúde mental, derivados de Redes Sociais, no qual apresentará páginas em caráter informativo para que dessa forma nossos usuários possam entender mais do assunto.
 Podemos ressaltar também, alguns objetivos mais específicos como:
+
 •	Produzir imagens para o compartilhamento de determinado assunto dentro do tema e divulgação do site por meio das próprias redes sociais
+
 •	Destacar também os aspectos positivos das redes sociais e como eles podem ser utilizados da maneira mais produtiva
+
 •	Informar aos usuários de maneira didática e objetiva como podem se dar os transtornos mentais associados as redes sociais
+
 •	Incentivar os usuários a recorrer por uma ajuda mais assertiva como psicólogos e psiquiatras para iniciar um tratamento assertivo por um profissional capacitado.
 
 
