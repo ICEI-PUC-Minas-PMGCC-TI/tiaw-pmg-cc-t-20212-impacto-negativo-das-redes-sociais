@@ -5,14 +5,13 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Angelo
-* João
+* Ângelo Gabriel de Freitas Marques
+* Joao Pedro Aguiar do Prado
 * Luís Fillipe Magalhães Conrado Pereira
-* Marcos
+* Marcus Vinicius Moraes Oliveira
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
 
 ## Instruções de utilização
 
