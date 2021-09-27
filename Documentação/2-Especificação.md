@@ -47,18 +47,28 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
+|Administrador       | Alterar permissões                 | Permitir que possam administrar cont
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
 > ferramenta poderosa para a compreensão e elicitação dos requisitos
 > funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
+> histórias de usuário por contexto, para facilitar consultasEu como usuária assídua  das redes sociais, tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Pois, quero deixar de negligenciar minhas obrigações como estudo e vida social.
 > recorrentes à essa parte do documento.
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
 > - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
+Eu como membro ativo da igreja e colaboradora do projeto “Força jovem”, quero aumentar o alcance do meu projeto, e assim proporcionar maior visibilidade para a questão da saúde mental dos jovens em nossa comunidade. Para poder amparar os jovens que precisam de ajuda e estão sofrendo algum tipo de transtorno mental. --SABRINA
+
+Eu como usuária assídua  das redes sociais, tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Pois, quero deixar de negligenciar minhas obrigações como estudo e vida social. --Carla
+
+Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. --Monica
+
+
+Eu como usuário constante das redes sociais, ressalto a importância de usa-lás de forma divertida, mostrando o meu estilo de vida e experiencias. Tenho como objetivo principal normalizar os aspectos negativos da minha vida, e  ao ficar preso a idealizações.--Carlos
+
+
 
 ## Requisitos
 
