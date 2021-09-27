@@ -1,10 +1,19 @@
 # Especificações Do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
+Metodologia
+A metodologia tem como objetivo incluir definições de ferramentas usadas pela equipe para manter o código e outros artefatos para organizar a equipe para executar as tarefas do projeto.
+Divisão de papeis
+Todos os integrantes do grupo participaram ativamente em todo processo de Design Thinking, a partir da ideação do projeto, os integrantes Luís Fillipe, João Pedro e Ângelo Gabriel desenvolveram mais ativamente as ideias em relação ao projeto. O projeto de interface foi desenvolvido por todos os integrantes, dando destaque aos desenvolvedores principais Marcus Vinicius e Luís Fillipe. As metodologias do projeto foram desenvolvidas em conjunto com todos, com um destaque aos desenvolvedores principais Ângelo Gabriel e João Pedro
+Ambientes de Trabalho
+Git Hub
+Utilizamos desta plataforma com o intuito de tornar prático e rápido o acesso para os arquivos de documentação todos os integrantes do grupo.
+Miro 
+Por meio desta ferramenta, podemos construir todo o ambiente de Design Thinking de forma remota, rápida e organizada, no qual se fez muito útil ao projeto
+Trello
+A ferramenta foi utilizada para a organização de tarefas em andamento e futuras, de forma que pudéssemos ver o progresso e todo caminho a ser trilhado.
+Discord
+Utilizado para reuniões e debates a respeito de ideias e ações a se desenvolver de acordo com o andamento do trabalho
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 
