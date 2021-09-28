@@ -15,9 +15,14 @@ As ferramentas empregadas no projeto são:
 •	Git Hub <br>
 Utilizamos desta plataforma com o intuito de tornar prático e rápido o acesso para os arquivos de documentação todos os integrantes do grupo. <br>
 •	Miro <br>
-Por meio desta ferramenta, podemos construir todo o ambiente de Design Thinking de forma remota, rápida e organizada, no qual se fez muito útil ao projeto. <br>
+Por meio desta ferramenta, podemos construir todo o ambiente de Design Thinking de forma remota, rápida e organizada, no qual se fez muito útil ao projeto. Abaixo segue o link do ambiente de trabalho utilizado pelo grupo.  <br>
+[Workspace Miro](https://miro.com/app/board/o9J_lzFcEF4=/).<br>
 •	Trello   <br>
-A ferramenta foi utilizada para a organização de tarefas em andamento e futuras, de forma que pudéssemos ver o progresso e todo caminho a ser trilhado.  <br>
+A ferramenta foi utilizada para a organização de tarefas em andamento e futuras, de forma que pudéssemos ver o progresso e todo caminho a ser trilhado. Abaixo segue o link do ambiente de trabalho utilizado pelo grupo  <br>
+[Workspace Trello](https://trello.com/b/xrfDmmQC/trello-impactos-negativos-das-redes-sociais).<br>
 •	Discord <br>
 Utilizado para reuniões e debates a respeito de ideias e ações a se desenvolver de acordo com o andamento do trabalho.  <br>
+•	Figma <br>
+Utilizado para o desenvolvimento do Wireframe e Protótipo interativo, abaixo segue o link do ambiente de trabalho utilizado pelo grupo.  <br>
+[Workspace Figma](https://www.figma.com/file/AzD61nVx76a678uOLQL8Mr/Impactos-negativos-das-redes-sociais?node-id=6%3A122).<br>
 
