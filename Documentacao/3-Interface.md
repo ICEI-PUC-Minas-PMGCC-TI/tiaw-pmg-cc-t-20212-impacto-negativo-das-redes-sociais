@@ -17,7 +17,7 @@ Para o desenvolvimento do UserFlow utilizamos de diagramas para facilitar o ente
 O protótipo interativo tem como intuito, demonstrar a utilização da plataforma. Para o teste do protótipo, basta acessar o seguinte link abaixo:
 [Protótipo Interativo](https://www.figma.com/file/AzD61nVx76a678uOLQL8Mr/Impactos-negativos-das-redes-sociais?node-id=6%3A122).
 
-![Exemplo de Prototipo](images/interativo.png)
+![Exemplo de prototipo](images/Interativo.png)
 
 ## Wireframes
 
