@@ -28,31 +28,31 @@ Conforme podemos ver no fluxo de usuário no item acima, as telas apresentam uma
 
 A Estrutura de nossa página de Home, já conta com a exibição prévia de alguns artigos e relatos presentes em nossa plataforma, e com um menu intuitivo e simples na parte superior do website. Em nossa estrutura mobile, contamos com as mesmas características da exibição em desktop, apenas utilizamos um menu em Dropdown para facilitar o acesso do usuário em uma plataforma mobile. 
 
-![Tela Home Desktop](images/Desktop - Home.png)
+![Tela Home Desktop](images/Desktop_Home.png)
 
-![Tela Home Mobile](images/Mobile Home.png)
+![Tela Home Mobile](images/Mobile_Home.png)
 
 ### Tela Artigos Desktop/Mobile
 
 A Estrutura de nossa página de artigos, conta com um wallpaper logo no inicio da notícia, os autores e todo o conteúdo, tendo como o menu, o mesmo apresentado na tela de Home em diferentes dispositivos.
 
-![Tela Home Desktop](images/Desktop - Artigo.png)
+![Tela Home Desktop](images/Desktop_Artigo.png)
 
-![Tela Home Mobile](images/Mobile Artigo.png)
+![Tela Home Mobile](images/Mobile_Artigo.png)
 
 
 ### Tela Relatos Desktop/Mobile
 
 A Estrutura de nossa página de relatos, conta com um relato de um individuo anônimo, entrevistado previamente, tendo o menu sendo o mesmo apresentado na tela de Home em diferentes dispositivos.
 
-![Tela Relatos Desktop](images/Desktop - Relatos.png)
+![Tela Relatos Desktop](images/Desktop_Relatos.png)
 
-![Tela Relatos Mobile](images/Mobile Relatos.png)
+![Tela Relatos Mobile](images/Mobile_Relatos.png)
 
 ### Tela About Desktop/Mobile
 
 A Estrutura de nossa página de About, conta com a exposição de todos os integrantes e desenvolvedores deste projeto
 
-![Tela Relatos Desktop](images/Desktop - Relatos.png)
+![Tela Relatos Desktop](images/Desktop_Relatos.png)
 
-![Tela Relatos Mobile](images/Mobile Relatos.png)
+![Tela Relatos Mobile](images/Mobile_Relatos.png)
