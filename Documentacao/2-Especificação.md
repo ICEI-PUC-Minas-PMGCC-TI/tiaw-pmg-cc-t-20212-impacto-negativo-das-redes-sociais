@@ -2,13 +2,16 @@
 ## Personas
 
 Carla, tem 21 anos, e faz o uso constante das redes sociais em seu dia a dia, sendo elas, Instagram, WhatsApp e TikTok. Ela é diretamente afetada por grandes influencers e amigos do seu circulo social, com padrões irreais e a necessidade de aceitação dentro do seu grupo social. <br> Carla tem como seu principal objetivo, se aceitar fora dos padrões irreais e efetivar uma possível mudança de comportamento.
+![Personas Carla](images/Personas_Carla.jpg)
 
 Mônica, tem 19 anos, e faz o uso das redes sociais apenas para distração ao longo do dia a dia, utilizando mais o Instagram. <br> Devido o muitas horas de uso das redes sociais de forma recreativa, Mônica teme estar negligenciando suas outras obrigações, como estudos, vida social, etc, e com isso acaba gerando ansiedade, no qual ela acaba se cobrando muito para recompensar o tempo perdido. <br> Mônica tem como objetivo, fazer com que cada vez mais a influencia das redes sociais diminua e além disso que ela possa tomar mais conhecimento dos efeitos negativos das redes.
+![Personas Mônica](images/Personas_Mônica.jpg)
 
 Sabrina, tem 20 anos, e utiliza as redes sociais para promover o seu negócio e divulgar ações da igreja para o público jovem, ela participa da coordenação de eventos para jovens e acompanha de perto jovens e adultos acometidos por transtornos mentais, através da iniciativa "Força jovem". <br> Ao ser questionada, Sabrina explicitou a necessidade de conscientização da sociedade para com os transtornos mentais e disse ser interessante a criação de uma plataforma para promover ações e medidas de combate ao impacto das redes sociais na saúde mental e a prevenção de transtornos a ela associados.
+![Personas Sabrina](images/Personas_Sabrina.jpg)
 
 Eduardo, tem 18 anos, e faz o uso de redes sociais em seu dia a dia, sendo a principal o Instagram. Eduardo faz o uso das redes sociais para postagem de seu estilo de vida e suas experiências. Eduardo tem consciência que apenas publica aspectos positivos de sua vida, como suas comidas prediletas, suas viagens, etc. Visto que, ao usar as redes sociais, ele planeja se sentir bem consigo mesmo. <br> Pois em sua concepção não faz sentido realizar postagens que o fariam mal, dessa forma,  Eduardo ressalta a importância de normalizar os aspectos negativos de sua vida, e não ficar preso a idealizações.
-
+![Personas Eduardo](images/Personas_Eduardo.jpg)
 
 
 ## Histórias de Usuários
@@ -44,18 +47,21 @@ Motivo/Valor: Aceitar com mais naturalidade os aspectos negativos da minha vida,
 Abordaremos por meio de tabelas os requisitos funcionais e não funcionais da aplicação, no qual os requisitos funcionais são referentes as funções disponibilizadas aos usuários ao longo da utilização da plataforma, e os requisitos não funcionais são para aspectos técnicos da aplicação
 
 ### Requisitos Funcionais
-
-1.	O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.
-2.	O site deve destacar também os pontos positivos e boas práticas das redes sociais.
-3.	O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.
-4.	Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. 
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-001| O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais. | ALTA | 
+|RF-002| O site deve destacar também os pontos positivos e boas práticas das redes sociais.   | ALTA |
+|RF-003| O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.| MÉDIA |
+|RF-004| Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. | ALTA |
 
 
 ### Requisitos não Funcionais
 
-|       |  Descrição do Requisito |Prioridade |
-|-------|-------------------------|-----------|
- Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|ID     | Descrição do Requisito  |Prioridade |
+|-------|-------------------------|----|
+|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado |  BAIXA |
 
 ## Restrições
 
