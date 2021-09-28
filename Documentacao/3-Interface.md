@@ -18,6 +18,10 @@ Uma de nossas principais preocupações é a montagem da interface do sistema, n
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 
+## Protótipo Interativo
+
+O protótipo interativo tem como intuito, demonstrar a utilização da plataforma. Para o teste do protótipo, basta acessar o seguinte link abaixo:
+[Protótipo Interativo](https://www.figma.com/file/AzD61nVx76a678uOLQL8Mr/Impactos-negativos-das-redes-sociais?node-id=6%3A122).
 
 ## Wireframes
 
