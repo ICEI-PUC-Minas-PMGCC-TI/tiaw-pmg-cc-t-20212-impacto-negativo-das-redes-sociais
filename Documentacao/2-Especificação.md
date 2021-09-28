@@ -1,108 +1,69 @@
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+Carla, tem 21 anos, e faz o uso constante das redes sociais em seu dia a dia, sendo elas, Instagram, WhatsApp e TikTok. Ela é diretamente afetada por grandes influencers e amigos do seu circulo social, com padrões irreais e a necessidade de aceitação dentro do seu grupo social. <br> Carla tem como seu principal objetivo, se aceitar fora dos padrões irreais e efetivar uma possível mudança de comportamento.
+
+Mônica, tem 19 anos, e faz o uso das redes sociais apenas para distração ao longo do dia a dia, utilizando mais o Instagram. <br> Devido o muitas horas de uso das redes sociais de forma recreativa, Mônica teme estar negligenciando suas outras obrigações, como estudos, vida social, etc, e com isso acaba gerando ansiedade, no qual ela acaba se cobrando muito para recompensar o tempo perdido. <br> Mônica tem como objetivo, fazer com que cada vez mais a influencia das redes sociais diminua e além disso que ela possa tomar mais conhecimento dos efeitos negativos das redes.
+
+Sabrina, tem 20 anos, e utiliza as redes sociais para promover o seu negócio e divulgar ações da igreja para o público jovem, ela participa da coordenação de eventos para jovens e acompanha de perto jovens e adultos acometidos por transtornos mentais, através da iniciativa "Força jovem". <br> Ao ser questionada, Sabrina explicitou a necessidade de conscientização da sociedade para com os transtornos mentais e disse ser interessante a criação de uma plataforma para promover ações e medidas de combate ao impacto das redes sociais na saúde mental e a prevenção de transtornos a ela associados.
+
+Eduardo, tem 18 anos, e faz o uso de redes sociais em seu dia a dia, sendo a principal o Instagram. Eduardo faz o uso das redes sociais para postagem de seu estilo de vida e suas experiências. Eduardo tem consciência que apenas publica aspectos positivos de sua vida, como suas comidas prediletas, suas viagens, etc. Visto que, ao usar as redes sociais, ele planeja se sentir bem consigo mesmo. <br> Pois em sua concepção não faz sentido realizar postagens que o fariam mal, dessa forma,  Eduardo ressalta a importância de normalizar os aspectos negativos de sua vida, e não ficar preso a idealizações.
 
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+<strong> Carla </strong> <br>  
+Eu, Carla, como usuária assídua  das redes sociais quero: Entender melhor a respeito dos padrões impostos pelas redes sociais
+Ser menos influenciada pelos padrões de beleza e comportamento que me são impostos pelas redes sociais, para isso acredito ser necessário entender a extensão e o por quê dessa influência.
+Motivo/valor: Se aceitar fora dos padrões irreais predominantes em âmbito virtual
+Preciso me aceitar do jeito que eu sou, pois tentar me encaixar em um padrão me desgasta bastante e eu me sinto muito frustrada quando não consigo.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar cont
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultasEu como usuária assídua  das redes sociais, tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Pois, quero deixar de negligenciar minhas obrigações como estudo e vida social.
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+<strong> Mônica </strong> <br>
 
-Eu como membro ativo da igreja e colaboradora do projeto “Força jovem”, quero aumentar o alcance do meu projeto, e assim proporcionar maior visibilidade para a questão da saúde mental dos jovens em nossa comunidade. Para poder amparar os jovens que precisam de ajuda e estão sofrendo algum tipo de transtorno mental. --SABRINA
+Eu, Mônica, como usuária casual das redes sociais quero entender até qual ponto o uso das redes sociais pode ser considerado um vicio
+Entender se o tempo que gasto atualmente nas redes sociais pode me ser prejudicial de alguma forma, gostaria de dicas de como administrar melhor o meu tempo online, pois acredito que estou negligenciando outros aspectos da minha vida.
+Motivo/valor: Tentar diminuir a influencia das redes sociais e buscar conhecimento quanto a seus impactos negativos
+Não quero que as redes sociais sejam o meu único canal de entretenimento na minha vida, mas seu uso é vital para mim, pois me distrai a mente. Mas quero fazer uso consciente da mesma.
 
-Eu como usuária assídua  das redes sociais, tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Pois, quero deixar de negligenciar minhas obrigações como estudo e vida social. --Carla
+<strong> Sabrina </strong> <br>
 
-Eu como usuária casual das redes sociais, quero deixar de negligenciar minhas obrigações como estudo e vida social. Tenho como objetivo principal, diminuir o uso de apps como Istagram e tomar maiores conhecimentos dos efeitos negativos das redes. --Monica
+Eu, Sabrina, como membro ativo da igreja e colaboradora do projeto “Força jovem” quero estudar mais a respeito do tema, para ajudar jovens dentro da temática 
+Que essa questão dos transtornos mentais tenha mais visibilidade e que o os jovens tenham um espaço onde possam se informar e procurar ajuda. 
+Motivo/Valor: Buscar novas abordagens e medidas de combate efetivas para seu projeto “Força Jovem”
+Estamos nessa terra para ajudar aqueles que se encontram necessitados, e se temos meios para ajudar não devemos negligenciar nossa missão de amparo e servidão para com o próximo.
 
+<strong> Eduardo </strong> <br>
 
-Eu como usuário constante das redes sociais, ressalto a importância de usa-lás de forma divertida, mostrando o meu estilo de vida e experiencias. Tenho como objetivo principal normalizar os aspectos negativos da minha vida, e  ao ficar preso a idealizações.--Carlos
-
+Eu, Eduardo, como usuário constante das redes sociais e formador de opinião quero desmistificar essa ideia de que eu preciso provar algo para os outros por meio das redes sociais, pois me vem à mente que às vezes eu só quero provar algo para mim mesmo “Que eu estou bem, que eu tenho que estar bem.”
+Motivo/Valor: Aceitar com mais naturalidade os aspectos negativos da minha vida, e não provocar em outras pessoas esse mesmo sentimento que também sinto às vezes de ter que aparentar estar bem o tempo todo, meio que propagando uma idealização de um padrão de vida irreal.
 
 
-## Requisitos
+## Requisitos do Projeto
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Abordaremos por meio de tabelas os requisitos funcionais e não funcionais da aplicação, no qual os requisitos funcionais são referentes as funções disponibilizadas aos usuários ao longo da utilização da plataforma, e os requisitos não funcionais são para aspectos técnicos da aplicação
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+1.	O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.
+2.	O site deve destacar também os pontos positivos e boas práticas das redes sociais.
+3.	O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.
+4.	Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. 
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|       |  Descrição do Requisito |Prioridade |
+|-------|-------------------------|-----------|
+ Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|  | Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
