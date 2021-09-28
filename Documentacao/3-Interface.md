@@ -3,10 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
 
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
+Uma de nossas principais preocupações é a montagem da interface do sistema, no qual estabelecemos como aspectos primordiais em sua utilização a objetividade, usabilidade e um design minimalista. De forma que, o projeto possa ser acessado em diferentes plataformas como desktop e dispositivos móveis.
 
 ## User Flow
 
@@ -24,13 +21,38 @@
 
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
 
-> São protótipos usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante do
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+
+Conforme podemos ver no fluxo de usuário no item acima, as telas apresentam uma estrutura comum, no qual abordaremos mais nos proximos items.
+### Tela Home Desktop/Mobile
+
+A Estrutura de nossa página de Home, já conta com a exibição prévia de alguns artigos e relatos presentes em nossa plataforma, e com um menu intuitivo e simples na parte superior do website. Em nossa estrutura mobile, contamos com as mesmas características da exibição em desktop, apenas utilizamos um menu em Dropdown para facilitar o acesso do usuário em uma plataforma mobile. 
+
+![Tela Home Desktop](images/Desktop - Home.png)
+
+![Tela Home Mobile](images/Mobile Home.png)
+
+### Tela Artigos Desktop/Mobile
+
+A Estrutura de nossa página de artigos, conta com um wallpaper logo no inicio da notícia, os autores e todo o conteúdo, tendo como o menu, o mesmo apresentado na tela de Home em diferentes dispositivos.
+
+![Tela Home Desktop](images/Desktop - Artigo.png)
+
+![Tela Home Mobile](images/Mobile Artigo.png)
+
+
+### Tela Relatos Desktop/Mobile
+
+A Estrutura de nossa página de relatos, conta com um relato de um individuo anônimo, entrevistado previamente, tendo o menu sendo o mesmo apresentado na tela de Home em diferentes dispositivos.
+
+![Tela Relatos Desktop](images/Desktop - Relatos.png)
+
+![Tela Relatos Mobile](images/Mobile Relatos.png)
+
+### Tela About Desktop/Mobile
+
+A Estrutura de nossa página de About, conta com a exposição de todos os integrantes e desenvolvedores deste projeto
+
+![Tela Relatos Desktop](images/Desktop - Relatos.png)
+
+![Tela Relatos Mobile](images/Mobile Relatos.png)
