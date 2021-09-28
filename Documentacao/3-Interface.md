@@ -7,21 +7,17 @@ Uma de nossas principais preocupações é a montagem da interface do sistema, n
 
 ## User Flow
 
-![Exemplo de UserFlow](images/userflow.jpg)
+Para o desenvolvimento do UserFlow utilizamos de diagramas para facilitar o entendimento do caminho no qual o usuário percorrera em meio a utilização de nosso site. Abordaremos com mais detalhes as telas apresentadas nos tópicos seguintes
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
+![Exemplo de UserFlow](images/Fluxo_de_Usuario.jpg)
+
 
 ## Protótipo Interativo
 
 O protótipo interativo tem como intuito, demonstrar a utilização da plataforma. Para o teste do protótipo, basta acessar o seguinte link abaixo:
 [Protótipo Interativo](https://www.figma.com/file/AzD61nVx76a678uOLQL8Mr/Impactos-negativos-das-redes-sociais?node-id=6%3A122).
+
+![Exemplo de Prototipo](images/interativo.png)
 
 ## Wireframes
 
