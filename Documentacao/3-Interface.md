@@ -53,6 +53,6 @@ A Estrutura de nossa página de relatos, conta com um relato de um individuo an�
 
 A Estrutura de nossa página de About, conta com a exposição de todos os integrantes e desenvolvedores deste projeto
 
-![Tela Relatos Desktop](images/Desktop_Relatos.png)
+![Tela Relatos Desktop](images/Desktop_About.png)
 
-![Tela Relatos Mobile](images/Mobile_Relatos.png)
+![Tela Relatos Mobile](images/Mobile_About.png)
