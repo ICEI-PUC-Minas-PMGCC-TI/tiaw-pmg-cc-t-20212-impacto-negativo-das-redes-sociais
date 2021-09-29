@@ -59,9 +59,9 @@ Abordaremos por meio de tabelas os requisitos funcionais e não funcionais da ap
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  MÉDIA | 
-|RNF-003| O site deve ser compatível com os principais navegadores do mercado |  BAIXA |
+|RNF-003| O site deve ser compatível com os principais navegadores do mercado |  MÉDIA |
 
 ## Restrições
 
