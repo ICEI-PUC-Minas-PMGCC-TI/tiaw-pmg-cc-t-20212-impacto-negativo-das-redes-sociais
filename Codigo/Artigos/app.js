@@ -110,6 +110,7 @@ function incluirArtigo() {
     document.getElementById('inputImage').value=null;
     document.getElementById('inputResumo').value=null;
     document.getElementById('inputConteudo').value=null;
+    alert("Artigo Publicado com sucesso!")
 }
 
 // Configura os botões
