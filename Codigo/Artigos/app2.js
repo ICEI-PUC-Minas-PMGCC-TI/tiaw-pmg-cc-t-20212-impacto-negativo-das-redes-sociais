@@ -59,7 +59,7 @@ function imprimeDados() {
                     <div class="artigo">
                         <h2>${objDados.artigos[i].titulo}</h2>
                         <p>${objDados.artigos[i].resumo}</p></a>
-                        <img src="img/like.png" title="Clique aqui para favoritar este artigo!">
+                        <a href="#"><img src="img/like.png" title="Clique aqui para favoritar este artigo!"></a>
                     </div>
             </div>
         `

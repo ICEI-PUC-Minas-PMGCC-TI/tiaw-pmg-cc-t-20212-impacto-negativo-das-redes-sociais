@@ -23,6 +23,7 @@
 
 #tela img {
     width: 100%;
+    height: 200px;
     padding-top: 10px;
 }
 .artigo{
@@ -39,7 +40,8 @@
     padding: 5px 15px 5px 15px;
 }
 .artigo img{
-    width: 15% !important;
+    width: 14% !important;
+    height: 63px !important;
     display: block;
     margin: auto auto 0px auto;
     padding-bottom: 8%;
