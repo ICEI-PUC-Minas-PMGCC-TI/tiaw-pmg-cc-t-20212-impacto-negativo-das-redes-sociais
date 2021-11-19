@@ -1,0 +1,142 @@
+
+.menu{
+    margin-top: 05px;
+    background-color: darkgray !important;
+}
+.menu a{
+        color: black !important;
+}
+
+#tela img {
+    width: 450px;
+    height: 320px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.artigo h2{
+    text-align: center;
+    color: black;
+}
+.artigo h3{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(54, 54, 54);
+    padding-left: 90px;
+}
+.artigo p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(51, 48, 48);
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+
+#tela{
+    background-color: rgb(250, 249, 249);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.img_artigo{
+    width: 60%;
+    height: 400px;
+    margin-left: 22%;
+    margin-top: 02%;
+}
+
+
+
+.footer{
+    margin-top: 0px;
+    background-color: rgba(143, 143, 143, 1);
+    color: rgb(0, 0, 0);
+}
+.footer_area{
+    padding: 20px;
+    text-align: left  ;
+}
+
+/* Media Queries */
+
+@media screen and (max-width:600px){
+#inputConteudo, #inputTitle, #inputImage, #inputAutor{
+    display: none;
+}
+
+.title{
+    text-align:center; 
+}
+.title p{
+    text-align:justify; 
+}
+
+.header{
+    padding: 0px;
+}
+.barra{
+    display:none;  
+}
+
+#tela{
+    background-color: rgb(255, 255, 255) !important;
+    margin: 10px;
+    padding-top: 0px !important;
+    padding-bottom: 10px;
+}
+
+.artigo h2{
+    text-align: center;
+    color: black;
+}
+.artigo h3{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(54, 54, 54);
+    padding: 0px;
+}
+.artigo p{
+    text-align: justify;
+    color: rgb(51, 48, 48);
+    padding: 0px;
+}
+
+#tela{
+    background-color: rgb(211, 211, 211);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.artigo img{
+    width: 100% !important;
+    height: 30%;
+    margin-top: 01% !important;
+}
+}
+@media screen and (min-width:601px) and (max-width:980px){
+.header{
+    padding: 0px;
+}
+.barra{
+    display:none;  
+}
+#inputConteudo, #inputTitle, #inputImage, #inputAutor{
+    
+    width: 721px;
+}
+.title{
+    width: 721px;
+}
+.main{
+    margin: 2px 0px 0 50px;
+    width:100%;
+    padding: 0;
+}
+
+}
