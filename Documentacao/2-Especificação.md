@@ -41,6 +41,10 @@ Estamos nessa terra para ajudar aqueles que se encontram necessitados, e se temo
 Eu, Eduardo, como usuário constante das redes sociais e formador de opinião quero desmistificar essa ideia de que eu preciso provar algo para os outros por meio das redes sociais, pois me vem à mente que às vezes eu só quero provar algo para mim mesmo “Que eu estou bem, que eu tenho que estar bem.”
 Motivo/Valor: Aceitar com mais naturalidade os aspectos negativos da minha vida, e não provocar em outras pessoas esse mesmo sentimento que também sinto às vezes de ter que aparentar estar bem o tempo todo, meio que propagando uma idealização de um padrão de vida irreal.
 
+## BrainWriting
+
+Em meio as metodologias de abordagem de soluções, fizemos o uso da técnica do BrainWriting na qual consiste em gerar ideias em grupo, na qual em um primeiro momento não é de suma importância que a ideia seja de extrema qualidade, mas ao longo da metodologia, ideias mais elaboradas surgem, ajudando assim a mentalizar arquiteturas de soluções ao projeto. Abaixo está um de nossos quadros de BrainWriting.
+![BrainWriting](images/Brainwriting.jpg)
 
 ## Requisitos do Projeto
 
