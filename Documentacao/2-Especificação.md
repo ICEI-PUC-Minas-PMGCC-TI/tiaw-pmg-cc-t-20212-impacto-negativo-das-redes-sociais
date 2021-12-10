@@ -46,9 +46,21 @@ Motivo/Valor: Aceitar com mais naturalidade os aspectos negativos da minha vida,
 Em meio as metodologias de abordagem de soluções, fizemos o uso da técnica do BrainWriting na qual consiste em gerar ideias em grupo, na qual em um primeiro momento não é de suma importância que a ideia seja de extrema qualidade, mas ao longo da metodologia, ideias mais elaboradas surgem, ajudando assim a mentalizar arquiteturas de soluções ao projeto. Abaixo está um de nossos quadros de BrainWriting.
 ![BrainWriting](images/Brainwriting.jpg)
 
-## Requisitos do Projeto
+## Mural de Possibilidades
 
-Abordaremos por meio de tabelas os requisitos funcionais e não funcionais da aplicação, no qual os requisitos funcionais são referentes as funções disponibilizadas aos usuários ao longo da utilização da plataforma, e os requisitos não funcionais são para aspectos técnicos da aplicação
+Após as ideias geradas no BrainWriting, fizemos o uso também do Mural de Possibilidades, no qual consiste em tratar as ideias obtidas no passo anterior, afim de detalhar e refinar de forma que possam ser utilizadas em uma possível solução. Confira abaixo nosso mural de possibilidades.
+
+![Mural_Possibilidades](images/Mural_Possibilidade.jpg)
+
+## Mural de Possibilidades
+
+Após as ideias geradas no BrainWriting, fizemos o uso também do Mural de Possibilidades, no qual consiste em tratar as ideias obtidas no passo anterior, afim de detalhar e refinar de forma que possam ser utilizadas em uma possível solução. Confira abaixo nosso mural de possibilidades.
+![Mural_Possibilidades](images/Mural_Possibilidade.jpg)
+
+## Mapa de Priorização
+
+Um dos últimos passos a ser feito em meio a metodologia do Design Thinking é o mapa de priorização, no qual, selecionamos as ideias de soluções agora já tratadas e definimos os objetivos estratégicos e quais são as melhores soluções a serem adotadas pelo grupo. Abaixo, temos nosso mapa de priorização.
+![Mapa_Priorização](images/Mapa_Priorização.jpg)
 
 ### Requisitos Funcionais
 |ID    | Descrição do Requisito  | Prioridade |
