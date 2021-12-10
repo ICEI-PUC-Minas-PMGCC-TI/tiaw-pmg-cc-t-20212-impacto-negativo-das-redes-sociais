@@ -51,8 +51,11 @@ Abordaremos por meio de tabelas os requisitos funcionais e não funcionais da ap
 |------|-----------------------------------------|----|
 |RF-001| O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais. | ALTA | 
 |RF-002| O site deve destacar também os pontos positivos e boas práticas das redes sociais.   | ALTA |
-|RF-003| O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.| MÉDIA |
-|RF-004| Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. | ALTA |
+|RF-003| O site deverá disponibilizar uma guia de relatos para que possam ser escritos relatos por pessoas acometidas de problemas advindo das redes sociais.   | ALTA |
+|RF-004| O site deverá disponibilizar um sistema de login de usuário.   | ALTA |
+|RF-005| O site deverá disponibilizar uma aba de favoritos para que o usuário possa salvar seus Artigos prediletos.   | ALTA |
+|RF-006| Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. | ALTA |
+|RF-007| O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.| Baixa |
 
 
 ### Requisitos não Funcionais
