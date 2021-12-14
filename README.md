@@ -17,4 +17,4 @@ O objetivo do projeto é a criação de um site que possa reunir informações a
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Acesse nossa plataforma por meio do link:
