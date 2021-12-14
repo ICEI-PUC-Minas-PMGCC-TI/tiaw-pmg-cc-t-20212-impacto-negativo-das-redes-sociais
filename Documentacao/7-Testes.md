@@ -26,8 +26,8 @@
  a plataforma em questão, com perguntas predefinidas, no qual sao analisados
  questões de desing e usabilidade, sendo recomendada em qualquer etapa
  de construção do projeto.
-![Heuristica 01](images/Heuristica_ 01.jpg)
-![Heuristica 02](images/Heuristica_ 02.jpg)
+![Heuristica 01](images/Heuristica_01.jpg)
+![Heuristica 02](images/Heuristica_02.jpg)
 
 ## Avaliação
 
