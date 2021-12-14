@@ -1,49 +1,52 @@
 # Projeto da Solução
 
-<span style="color:red">Pré-requisitos: <a href="4-Gestão-Configuração.md"> Ambiente e Ferramentas de Trabalho</a></span>
 
 ## Tecnologias Utilizadas
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Em toda nossa plataforma utilizamos de HTML, CSS e JavaScript. Com as três ferramentas, conseguimos criar nossa plataforma de forma estável e intuitiva. Para hospedagem utilizamos a plataforma Replit. Abaixo, temos a visualização da arquitetura técnica de nosso projeto:
+![Arquitetura](images/Arquitetura.jpg)
 
 ## Arquitetura da solução
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+A solução implementada conta com os seguintes módulos:<br>
+•	Navegador - Interface básica do sistema <br>
+•	Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.<br>
+•	Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: <br>
+⬜️	Artigos - seções de artigos referentes ao tema <br>
+⬜️	Relatos - registro de relatos dos usuários referentes ao tema<br>
+⬜️  Favoritos - lista de relatos favoritos do usuário<br>
+⬜️  Login – informações de login e cadastro de usuário<br>
+•	Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. <br>
+## Hospedagem
+O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+## Templates de telas
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+Nossa plataforma obedece aos wireframes já apresentados e conta com as seguintes telas: <br>
+•	Home <br>
+•	Artigos <br>
+•	Relatos <br>
+•	Favoritos <br>
+•	Cadastro de artigos (somente administradores) <br>
+•	Cadastro de relatos <br>
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Tendo todas as telas dispostas com a responsividade utilizando media queries e o sistema de colunas do boostrap
 
-![Exemplo de UserFlow](images/userflow.jpg)
+## Home
+Tela inicial de nossa aplicação, que nos leva as demais áreas
+![Home](images/Home.jpg)
+## Tela Artigos
+Tela de listagem de todos os artigos já cadastrados na plataforma
+![Artigos](images/Artigos.jpg)
+## Tela Relatos
+Tela com todos os relatos já realizados em nossa plataforma
+![Relatos](images/Relatos.jpg)
+## Tela Favoritos
+Tela que exibe os artigos que estão como favoritos em sua conta
+![Favoritos](images/Favoritos.jpg)
+## Tela Cadastro de Artigos
+Tela para inserir dados para o cadastro de um novo artigo em nossa platafofrma, mas atenção, a plataforma s	o aceita usuários com permissão de administrador para inserir artigos na plataforma
+![Cadastro Artigo](images/Cadastro_Artigo.jpg)
+## Tela Cadastro de Relatos
+Tela para inserir seu relato respeitando a proposta da plataforma, bastando apenas estar logado na plataforma para inserir seu relato.
+![Cadastro Relato](images/Cadastro_Relato.jpg)
