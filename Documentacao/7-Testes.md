@@ -9,9 +9,9 @@
 
 ## Plano de Testes
 
-> Realizamos dois tipos de testes em nossa aplicação, uma Avaliação Heurística e também um plano
-> de teste de software, utilizando como base os requisitos funcionais apresentados anteriormente. 
-> Iremos detalhar inicialmente o plano de teste dos requisitos funcionais:
+ Realizamos dois tipos de testes em nossa aplicação, uma Avaliação Heurística e também um plano
+ de teste de software, utilizando como base os requisitos funcionais apresentados anteriormente. 
+ Iremos detalhar inicialmente o plano de teste dos requisitos funcionais:
   ### Plano de teste requisitos funcionais
 |Caso de Teste    | Requisitos Associados  | Objetivo do Teste | Passos | Critérios de Êxito|
 |-----------------|------------------------|-------------------|--------|-------------------|
@@ -22,10 +22,10 @@
 
 
 ## Avaliação Heurística
-> A avaliação Heurística é um tipo de tete pelo qual é  analisado a interface 
-> a plataforma em questão, com perguntas predefinidas, no qual sao analisados
-> questões de desing e usabilidade, sendo recomendada em qualquer etapa
-> de construção do projeto.
+ A avaliação Heurística é um tipo de tete pelo qual é  analisado a interface 
+ a plataforma em questão, com perguntas predefinidas, no qual sao analisados
+ questões de desing e usabilidade, sendo recomendada em qualquer etapa
+ de construção do projeto.
 ![Avaliação Heurística 01](img/IHC - Avaliação Heurística 01.jpg)
 ![Avaliação Heurística 02](img/IHC - Avaliação Heurística 02.jpg)
 ## Avaliação
