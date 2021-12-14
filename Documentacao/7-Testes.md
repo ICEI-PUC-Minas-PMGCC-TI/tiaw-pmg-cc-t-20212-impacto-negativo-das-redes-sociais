@@ -12,10 +12,11 @@
 > Realizamos dois tipos de testes em nossa aplicação, uma Avaliação Heurística e também um plano
 > de teste de software, utilizando como base os requisitos funcionais apresentados anteriormente. 
 > Iremos detalhar inicialmente o plano de teste dos requisitos funcionais:
-  ### Requisitos Funcionais
+  ### Plano de teste requisitos funcionais
 |Caso de Teste    | Requisitos Associados  | Objetivo do Teste | Passos | Critérios de Êxito|
 |-----------------|------------------------|-------------------|--------|-------------------|
 |CT-01 - Visualizar artigo|RF-01 - O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.<br>RF-02 - O site deve destacar também os pontos positivos e boas práticas das redes sociais.| Verificar se os artigos estão carregando corretamente | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Entre na guia de artigos<br>4) Selecione um artigo para leitura |•	O artigo será carregado, trazendo consigo uma imagem, texto, autor e data.<br>•	Os artigos devem trazer imagens visíveis associadas ao assunto do artigo
+|CT-02 – Cadastrar Relato|RF-03 - O site deverá disponibilizar uma guia de relatos para que possam ser escritos relatos por pessoas acometidas de problemas advindo das redes sociais.<br>RF-06 - Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica.| Cadastrar um relato para teste | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Fazer o cadastro ou login na plataforma<br>4) Selecionar a opção de cadastro de relato<br>5)Cadastrar Relato |•	A página deve enviar o relato para os moderadores para que possa ser avaliado e decidido se deve ou não ser inserido no site
 
 
 > 
