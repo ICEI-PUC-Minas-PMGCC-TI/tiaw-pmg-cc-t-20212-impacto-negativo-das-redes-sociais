@@ -9,10 +9,22 @@
 
 ## Plano de Testes
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
+> Realizamos dois tipos de testes em nossa aplicação, uma Avaliação Heurística e também um plano
+> de teste de software, utilizando como base os requisitos funcionais apresentados anteriormente. 
+> Iremos detalhar inicialmente o plano de teste dos requisitos funcionais:
+  ### Requisitos Funcionais
+|Caso de Teste    | Requisitos Associados  | Objetivo do Teste | Passos | Critérios de Êxito|
+|-----------------|------------------------|-------------------|--------|-------------------|
+|CT-01 - Visualizar artigo|RF-01 - O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.
+RF-02 - O site deve destacar também os pontos positivos e boas práticas das redes sociais.
+| Verificar se os artigos estão carregando corretamente | 1) Acessar o Navegador
+2) Informar o endereço do Site
+3) Entre na guia de artigos
+4) Selecione um artigo para leitura 
+|•	O artigo será carregado, trazendo consigo uma imagem, texto, autor e data.
+ •	Os artigos devem trazer imagens visíveis associadas ao assunto do artigo
+
+
 > 
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
