@@ -72,7 +72,8 @@ Um dos últimos passos a ser feito em meio a metodologia do Design Thinking é o
 |RF-005| O site deverá disponibilizar uma aba de favoritos para que o usuário possa salvar seus Artigos prediletos.   | ALTA |
 |RF-006| Entrevistas com pessoas acometidas de transtornos mentais possivelmente derivados do uso das redes sociais, que estão sob e/ou precisam de orientação psicológica. | ALTA |
 |RF-007| O site contará com o cadastro de artigos apenas para usuários com permissao de administradores | ALTA |
-|RF-007| O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.| Baixa |
+|RF-008| O site contará com uma aba para a exibição dos artigos salvos em favoritos | ALTA |
+|RF-009| O site deve oferecer flyers para o compartilhamento de determinados assuntos com o uso de gráficos e resumo do assunto tratado para divulgação em meio as redes sociais.| Baixa |
 
 
 ### Requisitos não Funcionais
