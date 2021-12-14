@@ -1,13 +1,5 @@
-# Avaliação da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
-
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
-
-## Plano de Testes
+# Plano de Testes
 
  Realizamos dois tipos de testes em nossa aplicação, uma Avaliação Heurística e também um plano
  de teste de software, utilizando como base os requisitos funcionais apresentados anteriormente. 
@@ -21,7 +13,7 @@
 |CT-04 – Cadastrar Artigo|RF-07 - O site contará com o cadastro de artigos apenas para usuários com permissão de administradores.| Salvar artigo como favorito | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Fazer o login na plataforma com usuário e senha de administrador (admin / admin)<br>4) Selecionar a opção de cadastro de artigo <br>5)Cadastrar artigo |•	A página deverá cadastrar o artigo e envia-lo de imediato para a exibição para os usuários da plataforma..
 
 
-## Avaliação Heurística
+# Avaliação Heurística
  A avaliação Heurística é um tipo de tete pelo qual é  analisado a interface 
  a plataforma em questão, com perguntas predefinidas, no qual sao analisados
  questões de desing e usabilidade, sendo recomendada em qualquer etapa
@@ -29,9 +21,6 @@
 ![Heuristica 01](images/Heuristica_01.jpg)
 ![Heuristica 02](images/Heuristica_02.jpg)
 
-## Avaliação
+# Avaliação
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Os testes de requisitos funcionais foram todos realizados diversas vezes durante o desenvolvimento da aplicação de forma que possa guiar o desenvolvimento da melhor forma possível. Com isso podemos ressaltar que realizando o teste diversas vez, conseguimos canalizar nossos erros e acertos e trabalhar da melhor forma possível sendo produtivo e funcional. Referente a Avaliação Heurística, foi realizada ao fim do desenvolvimento da aplicação e com ela podemos observar novos caminhos e possiveis soluções em quesito de design em nossos próximos encontros, para que dessa forma possamos melhorar a usabilidade de nossa aplicação.
