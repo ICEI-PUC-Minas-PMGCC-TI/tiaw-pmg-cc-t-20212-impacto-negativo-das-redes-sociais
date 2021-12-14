@@ -9,26 +9,26 @@ Em toda nossa plataforma utilizamos de HTML, CSS e JavaScript. Com as três ferr
 ## Arquitetura da solução
 
 A solução implementada conta com os seguintes módulos:<br>
-•	Navegador - Interface básica do sistema <br>
-•	Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.<br>
-•	Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: <br>
-⬜️	Artigos - seções de artigos referentes ao tema <br>
-⬜️	Relatos - registro de relatos dos usuários referentes ao tema<br>
-⬜️  Favoritos - lista de relatos favoritos do usuário<br>
-⬜️  Login – informações de login e cadastro de usuário<br>
-•	Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. <br>
+*	Navegador - Interface básica do sistema <br>
+* Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.<br>
+* Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: <br>
+  * Artigos - seções de artigos referentes ao tema <br>
+  * Relatos - registro de relatos dos usuários referentes ao tema<br>
+  * Favoritos - lista de relatos favoritos do usuário<br>
+  * Login – informações de login e cadastro de usuário<br>
+* Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador. <br>
 ## Hospedagem
 O site utiliza a plataforma do Replit como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
 
 ## Templates de telas
 
 Nossa plataforma obedece aos wireframes já apresentados e conta com as seguintes telas: <br>
-•	Home <br>
-•	Artigos <br>
-•	Relatos <br>
-•	Favoritos <br>
-•	Cadastro de artigos (somente administradores) <br>
-•	Cadastro de relatos <br>
+*	Home <br>
+*	Artigos <br>
+*	Relatos <br>
+*	Favoritos <br>
+*	Cadastro de artigos (somente administradores) <br>
+*	Cadastro de relatos <br>
 
 Tendo todas as telas dispostas com a responsividade utilizando media queries e o sistema de colunas do boostrap
 
