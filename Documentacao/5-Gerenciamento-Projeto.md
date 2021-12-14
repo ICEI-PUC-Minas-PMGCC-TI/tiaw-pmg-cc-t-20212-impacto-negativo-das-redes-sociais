@@ -20,7 +20,7 @@ As ferramentas empregadas no projeto são:
 
 •	Git Hub <br>
 Utilizamos desta plataforma com o intuito de tornar prático e rápido o acesso para os arquivos de documentação todos os integrantes do grupo. <br>
-[Workspace GitHub]https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20212-impacto-negativo-das-redes-sociais).<br>
+[Workspace GitHub](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-t-20212-impacto-negativo-das-redes-sociais).<br>
 •	Miro <br>
 Por meio desta ferramenta, podemos construir todo o ambiente de Design Thinking de forma remota, rápida e organizada, no qual se fez muito útil ao projeto. Abaixo segue o link do ambiente de trabalho utilizado pelo grupo.  <br>
 [Workspace Miro](https://miro.com/app/board/o9J_lzFcEF4=/).<br>
