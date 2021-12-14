@@ -22,9 +22,12 @@
 
 
 ## Avaliação Heurística
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> 
+> A avaliação Heurística é um tipo de tete pelo qual é  analisado a interface 
+> a plataforma em questão, com perguntas predefinidas, no qual sao analisados
+> questões de desing e usabilidade, sendo recomendada em qualquer etapa
+> de construção do projeto.
+![Avaliação Heurística 01](img/IHC - Avaliação Heurística 01.jpg)
+![Avaliação Heurística 02](img/IHC - Avaliação Heurística 02.jpg)
 ## Avaliação
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
