@@ -15,14 +15,7 @@
   ### Requisitos Funcionais
 |Caso de Teste    | Requisitos Associados  | Objetivo do Teste | Passos | Critérios de Êxito|
 |-----------------|------------------------|-------------------|--------|-------------------|
-|CT-01 - Visualizar artigo|RF-01 - O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.
-RF-02 - O site deve destacar também os pontos positivos e boas práticas das redes sociais.
-| Verificar se os artigos estão carregando corretamente | 1) Acessar o Navegador
-2) Informar o endereço do Site
-3) Entre na guia de artigos
-4) Selecione um artigo para leitura 
-|•	O artigo será carregado, trazendo consigo uma imagem, texto, autor e data.
- •	Os artigos devem trazer imagens visíveis associadas ao assunto do artigo
+|CT-01 - Visualizar artigo|RF-01 - O site deve conter matérias a fim de tratar e explicar os impactos negativos das redes sociais.<br>RF-02 - O site deve destacar também os pontos positivos e boas práticas das redes sociais.| Verificar se os artigos estão carregando corretamente | 1) Acessar o Navegador<br>2) Informar o endereço do Site<br>3) Entre na guia de artigos<br>4) Selecione um artigo para leitura |•	O artigo será carregado, trazendo consigo uma imagem, texto, autor e data.<br>•	Os artigos devem trazer imagens visíveis associadas ao assunto do artigo
 
 
 > 
