@@ -28,7 +28,7 @@
  de construção do projeto.
 ![Avaliação Heurística 01](images/Heuristica_ 01.jpg)
 ![Avaliação Heurística 02](images/Heuristica_ 02.jpg)
-
+![Personas Carla](images/Personas_Carla.jpg)
 ## Avaliação
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
