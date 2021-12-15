@@ -11,7 +11,7 @@ Para o desenvolvimento do UserFlow utilizamos de diagramas para facilitar o ente
 
 ![UserFlow](images/Fluxo_de_Usuario.jpg)
 UserFlow do projeto Final
-![UserFlow](images/UserFlow.jpg)
+![UserFlow](images/UserFlow2.jpg)
 
 ## Protótipo Interativo
 
