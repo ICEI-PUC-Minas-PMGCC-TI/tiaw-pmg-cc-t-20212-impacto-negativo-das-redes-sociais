@@ -5,6 +5,8 @@
 
 Em toda nossa plataforma utilizamos de HTML, CSS e JavaScript. Com as três ferramentas, conseguimos criar nossa plataforma de forma estável e intuitiva. Para hospedagem utilizamos a plataforma Replit. Abaixo, temos a visualização da arquitetura técnica de nosso projeto:
 ![Arquitetura](images/Arquitetura.jpg)
+Confira nossa interface (Fluxo de usuário e Wireframes aqui)
+[Projeto da Interface](3-Interface.md)
 
 ## Arquitetura da solução
 
