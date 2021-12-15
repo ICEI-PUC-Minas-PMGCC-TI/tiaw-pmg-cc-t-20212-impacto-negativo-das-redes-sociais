@@ -9,8 +9,9 @@ Uma de nossas principais preocupações é a montagem da interface do sistema, n
 
 Para o desenvolvimento do UserFlow utilizamos de diagramas para facilitar o entendimento do caminho no qual o usuário percorrera em meio a utilização de nosso site. Abordaremos com mais detalhes as telas apresentadas nos tópicos seguintes
 
-![Exemplo de UserFlow](images/Fluxo_de_Usuario.jpg)
-
+![UserFlow](images/Fluxo_de_Usuario.jpg)
+UserFlow do projeto Final
+![UserFlow](images/UserFlow.jpg)
 
 ## Protótipo Interativo
 
