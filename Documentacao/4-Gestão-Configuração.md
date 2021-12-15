@@ -6,4 +6,5 @@ A ferramenta de controle de versão adotada no projeto foi o GitHub no qual o re
 
 ## Hospedagem
 
-Hospedamos a nossa plataforma por meio do Replit, pois é um ambiente completo e bem estruturado. Segue o link de nossa plataforma.
+Hospedamos a nossa plataforma por meio do Replit, pois é um ambiente completo e bem estruturado. Segue o link de nossa plataforma: 
+https://e-health.luis-fillipefil.repl.co/
