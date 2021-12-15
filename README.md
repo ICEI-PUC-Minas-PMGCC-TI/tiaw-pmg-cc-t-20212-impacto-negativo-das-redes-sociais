@@ -17,4 +17,4 @@ O objetivo do projeto é a criação de um site que possa reunir informações a
 
 ## Instruções de utilização
 
-Acesse nossa plataforma por meio do link:
+Acesse nossa plataforma por meio do link: https://e-health.luis-fillipefil.repl.co/
