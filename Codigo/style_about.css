@@ -1,0 +1,47 @@
+/* Menu */
+.menu{
+    margin-top: 05px;
+    background-color: darkgray !important;
+}
+.menu a{
+        color: black !important;
+}
+
+
+h1 {
+    text-align: center;
+}
+img {
+    width: 80%;
+    height: 200px;
+    padding-top: 10px;
+}
+h2{
+    text-align: left;
+    padding-left: 10%;
+}
+/* Footer Padrão */
+.footer{
+    margin-top: 0px;
+    background-color: rgba(143, 143, 143, 1);
+    color: rgb(0, 0, 0);
+}
+.footer_area{
+    padding: 20px;
+    text-align: left  ;
+}
+
+/* Media Queries */
+
+@media screen and (max-width:600px){
+    img {
+        width: 80%;
+        height: 200px;
+        padding-top: 10px;
+        margin-left: 12%;
+    }
+    h2{
+        text-align: center;
+    }
+}
+

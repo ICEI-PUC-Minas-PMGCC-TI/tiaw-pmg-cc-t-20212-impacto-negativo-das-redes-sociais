@@ -1,0 +1,201 @@
+/* Menu */
+.menu{
+    margin-top: 05px;
+    background-color: darkgray !important;
+}
+.menu a{
+        color: black !important;
+}
+/* Cadastro de Artigo */ 
+
+.insertArtigo{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.title{
+    text-align: center;
+    background-color: darkgray;
+    margin: 30px 30px 30px auto;
+    margin-left: 40px;
+}
+.box{
+    width:1150px;
+    margin: 0px 0px 0px 0px;
+    margin-left: 40px;
+}
+#inputConteudo, #inputTitle, #inputImage, #inputAutor, #inputResumo{
+    width: 88%;
+}
+#inputConteudo{
+    height:50px;
+}
+
+#btnPublicar{
+    float: right;
+    margin: 5px 0 5px 0;
+    width: 150px;
+}
+/* Exibição Artigos*/
+.title-Artigo{
+    text-align: center;
+    margin: 30px 30px 30px auto;
+}
+
+#tela img {
+    width: 100%;
+    height: 200px;
+    padding-top: 10px;
+}
+.artigo{
+    background-color: rgba(30, 24, 24, 1);
+    margin-top: 0px;
+}
+.artigo h2{
+    text-align: center;
+    color: white;
+}
+.artigo p{
+    text-align: justify;
+    color: white;
+    padding: 5px 15px 5px 15px;
+}
+.Fav{
+    margin-left: 38% !important;
+    margin-bottom: 10px;
+}
+
+#tela{
+    background-color: rgb(211, 211, 211);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+/* CSS Tela Artigo */
+
+#tela_Artigo img {
+    width: 450px;
+    height: 320px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tela_Artigo{
+    background-color: rgb(250, 249, 249);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.artigo_visu h2{
+    text-align: center;
+    color: black;
+}
+.artigo_visu h3{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(54, 54, 54);
+    padding-left: 90px;
+}
+.artigo_visu p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(51, 48, 48);
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.img_artigo{
+    width: 60%;
+    height: 400px;
+    margin-left: 22%;
+    margin-top: 02%;
+}
+
+/* Footer Padrão */
+.footer{
+    margin-top: 0px;
+    background-color: rgba(143, 143, 143, 1);
+    color: rgb(0, 0, 0);
+}
+.footer_area{
+    padding: 20px;
+    text-align: left  ;
+}
+
+/* Media Queries */
+
+@media screen and (max-width:600px){
+
+.title{
+    text-align:center; 
+}
+.title p{
+    text-align:justify; 
+}
+
+.header{
+    padding: 0px;
+}
+.barra{
+    display:none;  
+}
+
+#tela{
+    background-color: rgb(255, 255, 255);
+}
+/* CSS Tela Artigo */
+.artigo_visu h2{
+    text-align: center;
+    color: black;
+}
+.artigo_visu h3{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(54, 54, 54);
+    padding: 0px;
+}
+.artigo_visu p{
+    text-align: justify;
+    color: rgb(51, 48, 48);
+    padding: 0px;
+}
+.artigo_visu img{
+    width: 100% !important;
+    height: 30%;
+    margin-top: 01% !important;
+}
+#tela_Artigo{
+    background-color: rgb(255, 255, 255) !important;
+    margin: 10px;
+    padding-top: 0px !important;
+    padding-bottom: 10px;
+}
+
+
+#tela_Artigo{
+    background-color: rgb(211, 211, 211);
+    margin: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+}
+@media screen and (min-width:601px) and (max-width:980px){
+.header{
+    padding: 0px;
+}
+.barra{
+    display:none;  
+}
+
+.title{
+    width: 721px;
+}
+.main{
+    margin: 2px 0px 0 50px;
+    width:100%;
+    padding: 0;
+}
+
+}
