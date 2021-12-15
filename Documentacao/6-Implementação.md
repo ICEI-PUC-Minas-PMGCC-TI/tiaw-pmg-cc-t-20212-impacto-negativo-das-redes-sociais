@@ -34,19 +34,19 @@ Tendo todas as telas dispostas com a responsividade utilizando media queries e o
 
 ## Home
 Tela inicial de nossa aplicação, que nos leva as demais áreas
-![Home](images/Home.jpg)
+![Home](images/Home.png)
 ## Tela Artigos
 Tela de listagem de todos os artigos já cadastrados na plataforma
-![Artigos](images/Artigos.jpg)
+![Artigos](images/Artigos.png)
 ## Tela Relatos
 Tela com todos os relatos já realizados em nossa plataforma
-![Relatos](images/Relatos.jpg)
+![Relatos](images/Relatos.png)
 ## Tela Favoritos
 Tela que exibe os artigos que estão como favoritos em sua conta
-![Favoritos](images/Favoritos.jpg)
+![Favoritos](images/Favoritos.png)
 ## Tela Cadastro de Artigos
 Tela para inserir dados para o cadastro de um novo artigo em nossa platafofrma, mas atenção, a plataforma s	o aceita usuários com permissão de administrador para inserir artigos na plataforma
-![Cadastro Artigo](images/Cadastro_Artigo.jpg)
+![Cadastro Artigo](images/Cad_art.png)
 ## Tela Cadastro de Relatos
 Tela para inserir seu relato respeitando a proposta da plataforma, bastando apenas estar logado na plataforma para inserir seu relato.
-![Cadastro Relato](images/Cadastro_Relato.jpg)
+![Cadastro Relato](images/Cad_relato.png)
