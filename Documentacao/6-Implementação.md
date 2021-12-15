@@ -57,7 +57,7 @@ Entregue na Sprint 2.
 ## Tela Cadastro de Artigo (RF-01 e RF-07)
 Alunos responsável: Luís Fillipe
 Tela pela qual poderia ser realizado o cadastro de um artigo no site, tendo a exibição de modo paliativo, na mesma tela do cadastro.
-Entregue na Sprint 1.
+Entregue na Sprint 1. (Para acessar esta tela logue na plataforma com Usuário: admin / Senha: admin)
 ![Cadastro Artigo](images/Cad_art.png)
 ## Tela Cadastro de Relato (RF-03 e RF-06)
 Alunos responsável: João Pedro
