@@ -32,7 +32,7 @@ Nossa plataforma obedece aos wireframes já apresentados e conta com as seguinte
 
 Tendo todas as telas dispostas com a responsividade utilizando media queries, sistema de colunas do boostrap e interação com LocalStorage em todas as telas presentes em nossa plataforma, exibindo assim os relatos, artigos e favoritos de forma dinâmica.
 
-## Home (RF04)
+## Home (RF04 e RF-09)
 Alunos responsável: Marcus Vinicius
 Tela pela qual poderia ser realizado o login e cadastro de um usuário em meio a plataforma.	
 Entregue na Sprint 1 o login e na Sprint 2 o cadastro de usuário.
